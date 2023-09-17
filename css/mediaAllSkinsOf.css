@@ -1,0 +1,149 @@
+@media screen and (max-width: 1679px) {
+
+.tabcontent
+    {
+    width: 1000px;   
+    }
+video:not(#myVideo){
+	width: 450px;
+}
+
+.QWER{
+	height: 250px;
+}
+.QWER2{
+	left: 371px;
+}
+.tabcontent{
+	height: 600px;
+}
+}
+
+@media screen and (max-width: 1608px) {
+
+.tabcontent
+    {
+    width: 900px;   
+    }
+video:not(#myVideo){
+	width: 400px;
+}
+
+.QWER2{
+	left: 321px;
+}
+
+#wanna{
+	    bottom: 25px;
+}
+}
+
+@media screen and (max-width: 1508px) {
+
+.QWER{
+	height: 250px;
+}
+
+.tabcontent{
+	height: 600px;
+	margin-left: 10px;
+}
+
+.tab{
+	margin-left: 0px;
+}
+
+@media screen and (max-width: 1393px) {
+
+
+#imageSkin{
+	width: 300px;
+}
+
+}
+
+@media screen and (max-width: 1293px) {
+
+#imageSkin{
+	width: 400px;
+}
+.QWER2 {
+    display: none;
+}
+
+footer{
+	margin-top: 100px;
+}
+.tab{
+	    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+#wanna{
+	    bottom: 39px;
+	    display: flex;
+	    justify-content: center;
+
+}
+#contenu2{
+	flex-direction: column;
+}
+.tabcontent
+{
+	width: 98%;
+	height: auto;
+}
+
+video:not(#myVideo){
+	width: 100%;
+	position: unset;
+}
+
+.QWER{
+	width: 45%;
+	height: auto;
+}
+
+#wanna{
+	width: 100%;
+	bottom: 10px;
+}
+.boxx{
+	height: auto;
+}
+}
+    
+@media screen and (max-width: 690px) {
+
+.tabcontent 
+	{
+    width: 94%;
+    height: auto;
+	}
+#imageSkin 
+	{
+    width: 95%;
+	}
+.QWER2 
+	{
+    left: 332px;
+	}
+.QWER 
+	{
+    width: 100%;
+    height: 250px;
+	}
+#wanna 
+	{
+    bottom: 19px;
+	}
+}
+
+
+
+}
+@media screen and (max-width: 490px) {
+
+.QWER{margin: 5px;}
+}

@@ -1,0 +1,26 @@
+.heart{
+	width: 50px;
+	margin: 7px;
+}
+
+button{
+ cursor: pointer;
+ width: 80px;
+ height: 70px;
+ margin: 7px;
+}
+
+#div1{
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 50px;
+}
+
+#div2{
+	display: flex;
+	flex-direction: column;
+}
+
+img{
+	cursor: pointer;
+}

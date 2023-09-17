@@ -1,0 +1,233 @@
+@media screen and (max-width: 956px) {
+
+#FunFact
+    {
+    width: 13%;   
+    }
+
+#FAQ
+    {
+    width:  13%;
+    }
+
+#Stats
+    {
+    width: 13%;
+    }
+
+
+
+
+
+}
+
+@media screen and (max-width: 913px) {
+
+#FunFact
+    {
+    width: 12%;
+    font-size: 1.3em;   
+    }
+
+#FAQ
+    {
+    width:  12%;
+    font-size: 1.3em;
+    }
+
+#Stats
+    {
+    width: 12%;
+    font-size: 1.3em;
+    }
+
+
+
+
+
+}
+
+@media screen and (max-width: 870px) {
+
+#FunFact
+    {
+    background-position: 50% 50%;
+    width: 10%;
+    font-size: 0.99em;
+    }
+
+#FAQ{
+    background-position: 50% 50%;
+    width:  10%;
+    font-size: 0.99em;
+}
+
+#Stats{
+    background-position: 50% 50%;
+    width: 10%;
+    font-size: 0.99em;
+}
+
+}
+
+@media screen and (max-width: 809px) 
+    {
+
+    #AllChampions
+        {
+        width: 73%;
+        }
+
+    #FunFact
+        {
+        width: 9%;
+        font-size: 0.85em;
+        }
+
+    #FAQ
+        {
+        width: 9%;
+        font-size: 0.85em;
+        }
+
+    #Stats
+        {
+        width: 9%;
+        font-size: 0.85em;
+        }
+
+    }
+
+
+@media screen and (max-width: 764px) {
+
+#FunFact
+    {
+    display: none;
+    }
+
+#FAQ{
+    display: none;
+}
+
+#Stats{
+    display: none;
+}
+
+#placelogo{
+     margin-left: 0px;
+}
+.aaa{
+    display: none;
+}
+.bbb{
+    height: 100px;
+    width: 33.3%;
+}
+header{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+#header733{
+    background: url(../images/background10.png);
+    border-top: 1px solid #785a28;
+    width: 100%;
+    height: 70px;
+    boder: 2px solid red;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    top: auto;
+    z-index: 5;
+    
+}
+#main{
+    margin-bottom: 100px;
+}
+#contenu 
+    {
+    /*Pour pub potentielle margin-top: 270px;*/
+    }
+
+#AllChampions
+    {
+    width: 80%;
+    }
+
+footer
+    {
+    position: relative;
+    bottom: 70px;
+    font-size: 0.75em;
+    }
+#Politics 
+    {
+    padding-top: 5px;
+    }
+#social 
+    {
+    display: none;
+    }
+   
+}
+
+@media screen and (max-width: 511px) 
+{
+
+    #imglogo
+        {
+        width: 100%;
+        }
+
+    #AllChampions
+        {
+        width: 95%;
+        }
+
+    #SearchBar
+        {
+        height: 35px;
+        }
+
+    #FunFact
+        {
+        display: none;
+        }
+
+    #FAQ
+        {
+        display: none;
+        }
+
+    #Stats
+        {
+        display: none;
+        }
+
+        header
+        {
+            width: 100%;
+        height: auto;
+        }
+}
+
+@media screen and (max-width: 430px) 
+{
+    #contenu 
+    {
+    /*Pour pub potentielle margin-top: 270px;*/
+    }
+footer
+    {
+    position: relative;
+    bottom: 70px;
+    font-size: 0.65em;
+    }
+#Politics 
+    {
+    padding-top: 10px;
+    }
+
+}
+}
